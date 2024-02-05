@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "individual-413420",
+  "private_key_id": "696c57a6de6988f57bbd7408644ca38a3b996574",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7SJilimKWBw/l\n1+eqRBfPMKiZu7s62OHisATgL/00lqMjJTp8GShG+EC12Ix7w42A7etDikyeMIE4\natHdEvEzhFGeJPZR73YzV4BnRJFe5d5OQh/cNfgs6nSnDaKx+POB/bV000KE81JA\nJ7T1qGbkY4TZVOEK4QUM7G4U+319VrVoFIn6ilG5Az/xX2bpszywMW/Ee6EofSbQ\nXtJt9Lomj6UK1WdNGZSjMiw7ASMQLqtAJrQ2ngbkJ1EmLjcHxZN3A9kZB7AgB+w8\nKKW7ydhsSIzMbuAVgTanISMmg/cWmNGqsmJLdRvJ+tBMDhj5Td1nCIVtecE3Wqmk\nt0oi6YK3AgMBAAECggEACDL7mn+4+jLRSNw6GbOvy9PTBcv4vJujJAQAaqTfM86x\nJ12UC7vO43CEkLwsG6eqNG32F00Li/9j9jQtqj06jxP+E2uF1yd3KB9EEVaopfFw\nA+1pggALie0ycd/VyBngkJ0qtQnMseUJ1veGDh0zHVDtZNW49nt3Ik41huNNu/od\nJNYTFixEuPKg8IEzNSF4B0DDTsPleMY+8X4+aDvUAUL8sXPNXykMu6Q7xIHBO8lb\nO8zUsywMyRLj3B4CZjgOH8EWgogjGxp5Jfx2J/1icU2iW0YiFWnOXbVghTAwm6A4\nczGEAwFmOMFrDDbBk69qaj+lW7egnCtg6vbfzKgq7QKBgQDh7Oubn+WIMum8Yh57\nXxEgGr0sAY44Wiyq7WSz4/VwrMCCXU3sLh0+824KH8SY+YkFw9/wK8iZggpLOZTU\nhFkSq+1s3+gjf/lyfLu3bcbiskU/cOXEUk7A5wf7tP1GKs0fquB2kbBMz3XDrUNX\nPKW54TK9hUSj2wzqfOwMeq6UAwKBgQDUNtbKuz3+uhnhgEf6yMb6F/awzl/g0AFO\nt7smiqFqmY8Th6svussm2zyBVQWwgsOnX/yLvcu4cJTyYiY1mSOis2T56nVuNTud\nlwMJ1bfpyJRShqHG4Ed99S4WKGcb41HeCg3cgtB91HfFvAfR5E2JhYCi5B6Kmree\nYSOjiK1qPQKBgB6L5wtCokk5AQtchNyPbQRXOS6jAzSxVIrD0DLWZpAWe2zk6q09\nSu0BAubRhsZcLt+drUCO2u+Oeo/TOEFHp7dzkYV//KYYHoURQlw5toNeMSizvg0+\nR7GjSxwIS5paHSPj+bduWVT5U+XiHlHEPHAWd8LSKwawjl2CCHRjfgk7AoGBAMWs\nB0t0On0p8K2ihmnN17ph1AJBWgHY/z7J2eQ+wbjALQvuFcEx58Xb9XIrNk+Cnqkr\nudyZAEhfZf6Y+ip26UDGhcpdYOE1aMCUR9pDXzq/AZoVml/bzfxAA5vUKqdJiZqg\nFuVOXNK4tJBVY5tZY/gziO0yPFizYVJ//Wh5Cb+pAoGBALWCqwH6hpSA50JmRXmC\nx59VNpezRZSb/KI/Z+Wkzbe8vjypK9jPTnyPp6iSeWKrPqKylpIqnjk3Efmq2Awe\nmloKkNJ23BbfaP+6OXgAl1/58uTzksZAp3b6nzbb0XvXMQ/LdC7ECBmbzteF0D7L\nqKDydRobLVgLzog4SqNJtMAW\n-----END PRIVATE KEY-----\n",
+  "client_email": "artem-shapovalov@individual-413420.iam.gserviceaccount.com",
+  "client_id": "108264333612771638794",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/artem-shapovalov%40individual-413420.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
